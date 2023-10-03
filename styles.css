@@ -27,6 +27,7 @@
 
 #flex-section2 .item1 {
 	flex: 100%;
+	margin-left: -16px;
 }
 
 #flex-section2 .item2 {
