@@ -26,16 +26,16 @@
 }
 
 #flex-section2 .item1 {
-	flex: 1;
+	flex: 100%;
 }
 
 #flex-section2 .item2 {
 	order: 3;
-	flex: 1;
+	flex: 100%;
 }
 
 #flex-section2 .item3 {
-	flex: 1;
+	flex: 100%;
 }
 
 /* Flexbox Part 3 */
@@ -76,7 +76,6 @@
 /* Grid Part 2 */
 
 #grid-section2 .gridboxblue {
-	#grid-section2 .gridboxblue {
 		grid-column: 2/-1;
 		grid-row: 1/4;
 		order: 2;
