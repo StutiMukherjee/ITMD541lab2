@@ -12,32 +12,33 @@
 
 /* end Flexbox Part 1 */
 
-
-/* end Flexbox Part 2 */
-
+/* Flexbox Part 2 */
 #flex-section2 ul {
 	display: flex;
 	margin: 0;
+	padding: 0;
 }
 
 #flex-section2 li {
 	list-style: none;
+	list-style-type: none;
 
 }
 
 #flex-section2 .item1 {
 	flex: 100%;
-	margin-left: -16px;
 }
 
 #flex-section2 .item2 {
-	order: 3;
+	order: 2;
 	flex: 100%;
 }
 
-#flex-section2 .item3 {
+#flex-section2 .item3 {
 	flex: 100%;
 }
+
+/* end Flexbox Part 2 */
 
 /* Flexbox Part 3 */
 
